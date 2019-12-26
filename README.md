@@ -6,6 +6,14 @@ Inspired by the commercial LED light.
 
 Thanks to [FastLED](https://github.com/FastLED/FastLED) and [u8g2](https://github.com/olikraus/u8g2) library.
 
+### lastest beta version [![Build Status](https://travis-ci.org/TanPitch/Light-Up.svg?branch=Beta)](https://travis-ci.org/TanPitch/Light-Up)
+
+LightUp 1.2 beta ([download here](https://github.com/TanPitch/Light-Up/tree/Beta))
+* add new light effect mode.
+* add battery level indicator.
+* add bluetooth connection node.
+> not fully function with some minor bugs.
+
 ### lastest worked version
 LightUp 1.1 ([download here](https://github.com/TanPitch/Light-Up/releases/tag/1.1))
 * CCT and HSL mode fully work.
