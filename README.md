@@ -13,11 +13,11 @@ LightUp 1.1 ([download here](https://github.com/TanPitch/Light-Up/releases/tag/1
 * CCT and HSL mode fully work.
 * bugs fix and minor improvement.
 * all worked : test on
- * Arduino Zero, Leonardo, Uno, Mega, Due
- * ESP8266 and ESP32
- * STM32 based boards
+  * Arduino Zero, Leonardo, Uno, Mega, Due
+  * ESP8266 and ESP32
+  * STM32 based boards
 
-please read the [install-note](https://github.com/Light-Up/README.md "install-note") before installed.
+please read the [install-note](###install-note) before installed.
 
 ### check lists
 
