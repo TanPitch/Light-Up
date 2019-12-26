@@ -1,4 +1,4 @@
-//Light-Up 1.0 ©2019 TANPITCH
+//Light-Up 1.1 ©2019 TANPITCH
 #include <Arduino.h>
 #include <Wire.h>
 #include <FastLED.h>
