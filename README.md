@@ -1,5 +1,5 @@
 # LightUp
-<img alt="Travis (.com)" src="https://img.shields.io/travis/com/TanPitch/Light-Up?style=for-the-badge"><img src="https://img.shields.io/badge/Lines%20Of%20Code-308-brightgreen?style=for-the-badge"><img src="https://img.shields.io/github/v/release/TanPitch/Light-Up?style=for-the-badge">
+<img alt="Travis (.com)" src="https://img.shields.io/travis/com/TanPitch/Light-Up?style=for-the-badge"> <img src="https://img.shields.io/badge/Lines%20Of%20Code-308-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/github/v/release/TanPitch/Light-Up?style=for-the-badge">
 
 Light Up is a simple PWM RGB LED controller.
 Inspired by the commercial LED light.
