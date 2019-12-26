@@ -1,6 +1,6 @@
 # B E T A . Z O N E
 
-### lastest beta version [![Build Status](https://travis-ci.org/TanPitch/Light-Up.svg?branch=Master)](https://travis-ci.org/TanPitch/Light-Up)
+### lastest beta version [![Build Status](https://travis-ci.org/TanPitch/Light-Up.svg?branch=Beta)](https://travis-ci.org/TanPitch/Light-Up)
 
 LightUp 1.2 beta ([download here](https://github.com/TanPitch/Light-Up/releases/tag/beta))
 * add new light effect mode.
