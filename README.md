@@ -1,12 +1,13 @@
 # LightUp
-<img alt="Travis (.com)" src="https://img.shields.io/travis/com/TanPitch/Light-Up?style=for-the-badge"> <img src="https://img.shields.io/badge/Lines%20Of%20Code-308-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/github/v/release/TanPitch/Light-Up?style=for-the-badge">
+<img alt="Travis (.com)" src="https://img.shields.io/travis/com/TanPitch/Light-Up?style=for-the-badge"> <img src="https://img.shields.io/badge/Lines%20Of%20Code-308-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/RELEASE-v1.1-brightgreen?style=for-the-badge">
 
 Light Up is a simple PWM RGB LED controller.
 Inspired by the commercial LED light.
 
 Thanks to [FastLED](https://github.com/FastLED/FastLED) and [u8g2](https://github.com/olikraus/u8g2) library.
 
-### lastest beta version [![Build Status](https://travis-ci.org/TanPitch/Light-Up.svg?branch=Beta)](https://travis-ci.org/TanPitch/Light-Up)
+### lastest version
+<img src="https://img.shields.io/github/v/release/TanPitch/Light-Up?style=for-the-badge"> <img alt="Travis (.org) branch" src="https://img.shields.io/travis/TanPitch/Light-Up/Beta?style=for-the-badge">
 
 LightUp 1.2 beta ([download here](https://github.com/TanPitch/Light-Up/tree/Beta))
 * add new light effect mode.
